@@ -19,8 +19,9 @@ Available for clearly scoped freelance work during evenings and weekends in IST.
 | --- | --- |
 | [Campus Desk](https://github.com/anshikajain-1723/campus-desk) | Angular student dashboard, validated CRUD, signals, filters, CSV export, responsive UI and browser persistence |
 | [Campus Records API](https://github.com/anshikajain-1723/campus-records-api) | Java / Spring Boot CRUD, validation, JPA, Flyway, search/pagination and integration tests |
+| [My Spoken](https://github.com/anshikajain-1723/my-spoken) | JavaScript / Node.js English-practice app, interview rehearsal, grammar, Hindi-English translation, local audio capture and 32 automated tests |
 
-These are original personal demonstrations developed with AI assistance and fictional data. They are separate applications, not employer/client work. Each repository documents its scope, setup and verification.
+These are personal projects developed with AI assistance, separate from employer/client work. Campus Desk and Campus Records API use fictional demonstration data. My Spoken is a local English-practice app. Each repository documents its scope, setup and verification.
 
 [Try Campus Desk live](https://anshikajain-1723.github.io/campus-desk/)
 
