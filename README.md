@@ -22,6 +22,8 @@ Available for clearly scoped freelance work during evenings and weekends in IST.
 
 These are original personal demonstrations developed with AI assistance and fictional data. They are separate applications, not employer/client work. Each repository documents its scope, setup and verification.
 
+[Try Campus Desk live](https://anshikajain-1723.github.io/campus-desk/)
+
 ## Tools
 
 **Primary:** Angular · TypeScript · JavaScript · RxJS · NgRx · HTML · CSS/SCSS · Bootstrap · Git · Jest
